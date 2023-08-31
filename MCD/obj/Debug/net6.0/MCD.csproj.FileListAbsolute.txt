@@ -1,0 +1,14 @@
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\bin\Debug\net6.0\MCD.exe
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\bin\Debug\net6.0\MCD.deps.json
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\bin\Debug\net6.0\MCD.runtimeconfig.json
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\bin\Debug\net6.0\MCD.dll
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\bin\Debug\net6.0\MCD.pdb
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.AssemblyInfoInputs.cache
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.AssemblyInfo.cs
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.csproj.CoreCompileInputs.cache
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.dll
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\refint\MCD.dll
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.pdb
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\MCD.genruntimeconfig.cache
+C:\Users\chemi\OneDrive\Documentos\C#\Pruebas\MCD\obj\Debug\net6.0\ref\MCD.dll

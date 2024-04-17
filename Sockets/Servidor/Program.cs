@@ -67,21 +67,26 @@ class Servidor
 
 class Program
 {
+    // El diccionario permite guardar la referencia de cada hilo creado, almacenado en memoria.
     static Dictionary <string, Servidor> dic = new();
 
 
     static void Main(string[] args)
     {
+        // Se define el protocolo de comunicación.
+
         IPHostEntry host = Dns.GetHostEntry("localhost");
         IPAddress iPAddress = host.AddressList[0];
         IPEndPoint localEndPoint = new(iPAddress, 8000);
 
         try
         {
+            // El servidor entra en modo de escucha y espera a que algún cliente establezca conexión.
+
             Socket listener = new(iPAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
             listener.Bind(localEndPoint);
             listener.Listen(10);
-            Console.WriteLine("Esperando conexión");
+            Console.WriteLine(">> Esperando conexión con un Cliente...");
 
             while (true)
             {
@@ -100,6 +105,9 @@ class Program
                 }
 
                 data = data.Replace("<EOL>", "");
+
+                // Aquí cada cliente que se comunica por primera vez con el servidor, se le asigna
+                // un hilo en el cual pueda interactuar de manera aislada.
 
                 Servidor cliente = new();
                 cliente.Nickname = data;

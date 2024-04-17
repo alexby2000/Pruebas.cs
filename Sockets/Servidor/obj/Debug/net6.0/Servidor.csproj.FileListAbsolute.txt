@@ -1,0 +1,15 @@
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\bin\Debug\net6.0\Servidor.exe
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\bin\Debug\net6.0\Servidor.deps.json
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\bin\Debug\net6.0\Servidor.runtimeconfig.json
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\bin\Debug\net6.0\Servidor.dll
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\bin\Debug\net6.0\Servidor.pdb
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.AssemblyInfo.cs
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.dll
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\refint\Servidor.dll
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.pdb
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\Servidor.genruntimeconfig.cache
+C:\Users\chemi\OneDrive\Escritorio\Sockets\Servidor\obj\Debug\net6.0\ref\Servidor.dll
